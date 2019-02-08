@@ -15,3 +15,13 @@ This is really good for people who are hosting servers with panel and when panel
 Jar acces ./start.sh file. File "./start.sh" is a looping file who restart your Server automaticaly.
 
 You welcome. It's really good for people who really know how to use :P
+
+## ** Them come With Maven ** 
+
+This project come with pom.xml so you can compile easy with maven and rename from code "start.sh" with name of file what you need.
+
+
+
+
+
+** ACTUALLY IS A COMMAND EXECUTOR. YOU CAN RENAME "./start.sh" FROM CODE AND USE FOR EXECUTING COMMANDS :D **
